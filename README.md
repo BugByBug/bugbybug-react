@@ -1,7 +1,7 @@
 
 # @bugbybug/react
 
-The official React SDK for BugByBug. This package wraps @bugbybug/browser to provide React-specific context, Error Boundaries, and hooks.
+The official React SDK for BugByBug. It wraps `@bugbybug/browser` to provide React-specific context, Error Boundaries, and hooks.
 
 ### Installation
 ```
